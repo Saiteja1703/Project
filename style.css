@@ -1,0 +1,138 @@
+body {
+    font-family: Roboto;
+    color: white;
+}
+
+.First-sec {
+    background-color: #1F2937;
+    width: 85%;
+    padding: 30px 150px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.First-sec-sub1 {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+
+.Logo-in {
+    position: absolute;
+    right: 150px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 5px;
+}
+
+img {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf9;
+}
+
+.Text {
+    box-sizing: border-box;
+    margin: 10px 0px;
+}
+
+.T-1 {
+    width: 48%;
+    float: left;
+    font: 48px extra-bold;
+    color: #F9FAF8;
+}
+
+.T-2 {
+    width: 48%;
+    float: right;
+    background-color: grey;
+    height: 290px;
+}
+
+.b1 {
+    background-color: #3882F6;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 3px;
+    width: 80px;
+    margin: 10px;
+}
+
+.Second-sec {
+    text-align: center;
+    padding: 50px;
+}
+
+.Second-sec>h1 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+}
+
+.Second-sec-sub {
+    display: flex;
+    justify-content: center;
+}
+
+.Card {
+    padding: 30px;
+}
+
+.card-image {
+    border: 2px solid #3882F6;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.Card>p {
+    font-size: 18px;
+    color: #1F2937;
+}
+
+.Third-sec {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    padding: 50px 250px;
+
+}
+
+.Fourth-sec {
+    display: flex;
+    background-color: #3882F6;
+    margin: 100px 250px;
+    border-radius: 10px;
+    padding: 20px 100px;
+    justify-content: space-between;
+}
+
+.Fourth-sec-sub2 {
+  align-items: center;
+  display: flex;
+  padding: 10px;
+}
+
+.Fourth-sec-sub2 > button{
+    background-color: #3882F6;
+    border: 1px solid #E5E7EB;
+    color:#E5E7EB;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.Footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 30px;
+}
